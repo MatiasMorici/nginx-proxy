@@ -5,7 +5,7 @@
 *1st:*
 > CD nginx-proxy/
 
-> run docker-compose up -d
+> docker-compose up -d
 
 this will mantaint running the nginx-proxy daemon
 
@@ -13,12 +13,12 @@ this will mantaint running the nginx-proxy daemon
 *2nd:*
 > CD laravel-app/
 
-> run docker-compose up -d
+> docker-compose up -d
 
 *3rd:*
 > CD laravel-app2/
 
-> run docker-compose up -d
+> docker-compose up -d
 
 
 *4th:*
