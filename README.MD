@@ -7,7 +7,7 @@
 
 > docker-compose up -d
 
-this will mantaint running the nginx-proxy daemon
+this will run the nginx-proxy daemon
 
 
 *2nd:*
