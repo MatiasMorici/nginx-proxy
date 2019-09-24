@@ -1,4 +1,4 @@
-Nginx-proxy demo using 2 laravel proyects with their respective mysql databases.
+**Nginx-proxy demo using 2 laravel proyects with their respective mysql databases.**
 
 Steps:
 
