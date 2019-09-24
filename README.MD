@@ -1,6 +1,7 @@
 Nginx-proxy demo using 2 laravel proyects with their respective mysql databases.
 
 Steps:
+
 1st:
 CD nginx-proxy/
 run docker-compose up -d
